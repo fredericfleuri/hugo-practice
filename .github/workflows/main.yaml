@@ -39,7 +39,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
-          deploy_key: ${{ secrets.SPORT_PHOTOS_FLEURI_FR }}
+          # deploy_key: ${{ secrets.SPORT_PHOTOS_FLEURI_FR }}
           external_repository: fredericfleuri/sport.photos.fleuri.fr
           publish_dir: ./public
           cname: sport.photos.fleuri.fr
