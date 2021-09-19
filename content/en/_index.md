@@ -5,6 +5,6 @@ description: "Crazyness"
 
 All in English
 
-* ![alt text](https://live.staticflickr.com/65535/51486514104_01ca15c3aa_w.jpg)
-* ![alt text](https://live.staticflickr.com/65535/51486514104_01ca15c3aa_w.jpg)
-* ![alt text](https://live.staticflickr.com/65535/51486514104_01ca15c3aa_w.jpg)
+* ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tulipe_rouge_macro.jpg/640px-Tulipe_rouge_macro.jpg)
+* ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tulipe_rouge_macro.jpg/640px-Tulipe_rouge_macro.jpg)
+* ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tulipe_rouge_macro.jpg/640px-Tulipe_rouge_macro.jpg)
