@@ -1,0 +1,29 @@
+copyright = "Everything is mine"
+
+defaultContentLanguage = 'fr'
+defaultContentLanguageInSubdir = true
+
+
+
+baseURL = "http://hugo-practice.fleuri.fr/"
+
+[languages]
+  [languages.fr]
+    title = "Mon blogue"
+    languageName = 'Français'
+    weight = 10
+    contentDir = "content/fr"
+  [languages.en]
+    title = "My blog"
+    languageName = 'English'
+    weight = 20
+    contentDir = "content/en"
+
+[params]
+  [params.navigation]
+    help = 'Help'
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
