@@ -36,6 +36,6 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           deploy_key: ${{ secrets.SPORT_PHOTOS_FLEURI_FR }}
-          external_repository:
+          external_repository: fredericfleuri/sport.photos.fleuri.fr
           publish_dir: ./public
 
